@@ -1,6 +1,6 @@
 {
-  "name": "concurrently",
-  "version": "4.1.0",
+  "name": "@wiwo/concurrently",
+  "version": "4.1.0-wiwo.1",
   "description": "Run commands concurrently",
   "main": "index.js",
   "bin": {
